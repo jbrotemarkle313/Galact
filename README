@@ -1,0 +1,7 @@
+Galact is a simplified Galaga. 
+When the user is ready to play the game enemies will randomly generate. The user must destroy the enemies with bullets to gain points.
+If the user gets hit by an ememy or an enemy bullet the user will lose lives. Once the user loses all bullets or lives it is game over.
+The user's final score will be displayed on the screen.
+
+MARS is required to run the program. This can be installed following the provided link.
+http://courses.missouristate.edu/KenVollmar/MARS/index.htm
